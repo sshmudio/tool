@@ -1,0 +1,6 @@
+.env/
+config.ini
+*.txt
+/.env
+.env/*/**
+dnsname
